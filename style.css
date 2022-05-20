@@ -5,6 +5,13 @@
     box-sizing: border-box
 }
 
+#left{
+    float:left;
+}
+#right{
+    float:right;
+}
+
 html {
     height: 100%
 }
@@ -20,10 +27,6 @@ body {
     line-height: 22px;
             font: 13px "Source Sans Pro", Arial;
             font-style: normal
-}
-
-#right{
-    float:right;
 }
 
 h1 {
