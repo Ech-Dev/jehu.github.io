@@ -22,6 +22,10 @@ body {
             font-style: normal
 }
 
+#right{
+    float:right;
+}
+
 h1 {
  font: 30px "Slabo 27px", Arial;
             margin: 0;
